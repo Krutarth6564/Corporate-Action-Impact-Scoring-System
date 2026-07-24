@@ -6,9 +6,6 @@ An enterprise-grade, production-ready AI platform designed to analyze NSE/BSE co
 
 ## 🌟 Key System Capabilities
 
-- **Resilient Multi-URL Downloader**: Session retries with exponential backoff, SHA-256 PDF hash duplicate detection, progress tracking callbacks, and timeout controls.
-- **Hybrid PDF Extraction Engine**: PyMuPDF (`fitz`) fast parser combined with `pdfplumber` layout & table extraction, multi-page document parsing, and OCR fallback for scanned PDFs.
-- **25+ Field Entity Extractor**: Regex patterns, spaCy NER, rule-based NLP, and optional OpenAI LLM JSON refinement (`gpt-4o-mini`).
 - **15-Taxonomy Announcement Classifier**: Categorizes announcements into `Order Win`, `GST Notice`, `Penalty`, `Dividend`, `Buyback`, `Bonus`, `Stock Split`, `Acquisition`, `Merger`, `Partnership`, `Expansion`, `Litigation`, `Management Change`, `Credit Rating`, and `Other`.
 - **Explainable Weighted Scoring Engine**: Multi-factor scoring (0 to 100) powered by configurable `config/scoring.yaml` weights, assigning 4 rating tags (`Very High`, `High`, `Medium`, `Low`) and natural language explanations.
 - **AI Executive Business Summarizer**: Produces 1-2 sentence market summaries (e.g. *"BHEL secured a ₹620 crore government order expected to positively impact future revenues. Overall market impact is High."*).
