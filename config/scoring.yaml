@@ -1,0 +1,44 @@
+# Impact Scoring Configuration & Weights
+
+category_weights:
+  "Debt Default & Downgrade": 45.0
+  "Litigation & Court Case": 40.0
+  "Penalty & Tax Demand": 38.0
+  "GST Notice": 35.0
+  "Merger & Acquisition": 35.0
+  "Financial Results": 30.0
+  "Order Win": 28.0
+  "Buyback & Dividend": 25.0
+  "Bonus & Stock Split": 25.0
+  "Management Change": 24.0
+  "Credit Rating": 22.0
+  "Expansion & Capex": 20.0
+  "Partnership": 18.0
+  "Other Disclosure": 10.0
+
+financial_scale_thresholds:
+  very_large_cr: 5000.0   # > 5000 Cr -> +30 pts
+  large_cr: 1000.0        # 1000-5000 Cr -> +25 pts
+  medium_cr: 250.0        # 250-1000 Cr -> +20 pts
+  small_cr: 50.0          # 50-250 Cr -> +15 pts
+  minor_cr: 10.0          # 10-50 Cr -> +10 pts
+
+sector_sensitivity_multipliers:
+  "Defense & Infrastructure": 1.25
+  "Banking & Financial Services": 1.20
+  "Information Technology": 1.15
+  "Pharmaceuticals & Healthcare": 1.10
+  "Energy & Power": 1.15
+  "General Industrials": 1.00
+
+signal_weights:
+  positive_signal_bonus: 5.0
+  negative_signal_penalty: 8.0
+  risk_factor_penalty: 6.0
+  government_order_bonus: 5.0
+
+rating_thresholds:
+  very_high: 85.0
+  high: 70.0
+  medium: 45.0
+  low: 0.0

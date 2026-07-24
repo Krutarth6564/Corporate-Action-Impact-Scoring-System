@@ -1,0 +1,59 @@
+[2026-07-24 11:28:58] [INFO] [Downloader] Generated synthetic PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:28:58] [INFO] [Downloader] Generated synthetic PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:28:58] [INFO] [Downloader] Generated synthetic PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:28:59] [INFO] [Downloader] Generated synthetic PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:28:59] [INFO] [Downloader] Generated synthetic PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:28:59] [INFO] [Ranker] Starting batch ranking pipeline for 5 announcements...
+[2026-07-24 11:28:59] [INFO] [PDFParser] Parsing PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:28:59] [INFO] [Ranker] Processed 'RELIANCE_Merger_Acquisition_Notice.pdf': Score 80.0 (HIGH)
+[2026-07-24 11:28:59] [INFO] [PDFParser] Parsing PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:28:59] [INFO] [Ranker] Processed 'TCS_Q1_Financial_Results_Dividend.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:28:59] [INFO] [PDFParser] Parsing PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:28:59] [INFO] [Ranker] Processed 'INFY_Board_Resignation_CEO_Notice.pdf': Score 62.0 (MEDIUM)
+[2026-07-24 11:28:59] [INFO] [PDFParser] Parsing PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:28:59] [INFO] [Ranker] Processed 'SUZLON_Debt_Default_Disclosure.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:28:59] [INFO] [PDFParser] Parsing PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:28:59] [INFO] [Ranker] Processed 'TATAMOTORS_Bonus_Issue_Ratio.pdf': Score 63.0 (MEDIUM)
+[2026-07-24 11:29:11] [INFO] [Downloader] Generated synthetic PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:29:11] [INFO] [Downloader] Generated synthetic PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:29:11] [INFO] [Downloader] Generated synthetic PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:29:11] [INFO] [Downloader] Generated synthetic PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:29:11] [INFO] [Downloader] Generated synthetic PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:29:11] [INFO] [Ranker] Starting batch ranking pipeline for 5 announcements...
+[2026-07-24 11:29:11] [INFO] [PDFParser] Parsing PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:29:11] [INFO] [Ranker] Processed 'RELIANCE_Merger_Acquisition_Notice.pdf': Score 80.0 (HIGH)
+[2026-07-24 11:29:11] [INFO] [PDFParser] Parsing PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:29:11] [INFO] [Ranker] Processed 'TCS_Q1_Financial_Results_Dividend.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:29:11] [INFO] [PDFParser] Parsing PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:29:12] [INFO] [Ranker] Processed 'INFY_Board_Resignation_CEO_Notice.pdf': Score 62.0 (MEDIUM)
+[2026-07-24 11:29:12] [INFO] [PDFParser] Parsing PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:29:12] [INFO] [Ranker] Processed 'SUZLON_Debt_Default_Disclosure.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:29:12] [INFO] [PDFParser] Parsing PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:29:12] [INFO] [Ranker] Processed 'TATAMOTORS_Bonus_Issue_Ratio.pdf': Score 63.0 (MEDIUM)
+[2026-07-24 11:30:12] [INFO] [Ranker] Starting batch ranking pipeline for 5 announcements...
+[2026-07-24 11:30:12] [INFO] [PDFParser] Parsing PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:30:12] [INFO] [Ranker] Processed 'INFY_Board_Resignation_CEO_Notice.pdf': Score 62.0 (MEDIUM)
+[2026-07-24 11:30:12] [INFO] [PDFParser] Parsing PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:30:12] [INFO] [Ranker] Processed 'RELIANCE_Merger_Acquisition_Notice.pdf': Score 80.0 (HIGH)
+[2026-07-24 11:30:12] [INFO] [PDFParser] Parsing PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:30:12] [INFO] [Ranker] Processed 'SUZLON_Debt_Default_Disclosure.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:30:12] [INFO] [PDFParser] Parsing PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:30:12] [INFO] [Ranker] Processed 'TATAMOTORS_Bonus_Issue_Ratio.pdf': Score 63.0 (MEDIUM)
+[2026-07-24 11:30:12] [INFO] [PDFParser] Parsing PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:30:12] [INFO] [Ranker] Processed 'TCS_Q1_Financial_Results_Dividend.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:34:00] [INFO] [Downloader] Generated synthetic PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:34:00] [INFO] [Downloader] Generated synthetic PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:34:00] [INFO] [Downloader] Generated synthetic PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:34:00] [INFO] [Downloader] Generated synthetic PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:34:00] [INFO] [Downloader] Generated synthetic PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:34:00] [INFO] [Ranker] Starting batch ranking pipeline for 5 announcements...
+[2026-07-24 11:34:00] [INFO] [PDFParser] Parsing PDF: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 11:34:00] [INFO] [Ranker] Processed 'INFY_Board_Resignation_CEO_Notice.pdf': Score 62.0 (MEDIUM)
+[2026-07-24 11:34:00] [INFO] [PDFParser] Parsing PDF: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 11:34:00] [INFO] [Ranker] Processed 'RELIANCE_Merger_Acquisition_Notice.pdf': Score 80.0 (HIGH)
+[2026-07-24 11:34:00] [INFO] [PDFParser] Parsing PDF: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 11:34:00] [INFO] [Ranker] Processed 'SUZLON_Debt_Default_Disclosure.pdf': Score 85.0 (CRITICAL)
+[2026-07-24 11:34:00] [INFO] [PDFParser] Parsing PDF: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 11:34:01] [INFO] [Ranker] Processed 'TATAMOTORS_Bonus_Issue_Ratio.pdf': Score 63.0 (MEDIUM)
+[2026-07-24 11:34:01] [INFO] [PDFParser] Parsing PDF: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 11:34:01] [INFO] [Ranker] Processed 'TCS_Q1_Financial_Results_Dividend.pdf': Score 85.0 (CRITICAL)

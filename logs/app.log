@@ -1,0 +1,1813 @@
+[2026-07-24 11:43:29] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 11:43:29] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:43:29] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:43:29] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:43:29] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:43:29] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:43:29] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:43:29] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:43:29] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:43:29] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:43:29] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:43:29] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:43:29] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:43:29] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:43:29] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:46:51] [INFO] [Ranker] Starting batch execution for 6 announcements...
+[2026-07-24 11:46:51] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:46:51] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:46:51] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:46:52] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:46:52] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:46:52] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:46:52] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:46:52] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:46:52] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:46:52] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:46:52] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:46:52] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:46:52] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:46:52] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:46:52] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:46:52] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:47:13] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:47:13] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:47:13] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:47:13] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:47:13] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:47:13] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:47:14] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:47:14] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:47:14] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:47:14] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:47:14] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:47:14] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:47:14] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:47:14] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:47:14] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:47:14] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:47:14] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:47:14] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:47:14] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:48:33] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:48:33] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:48:33] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:48:33] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:48:33] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:48:33] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:48:34] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:48:34] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:48:34] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:48:34] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:48:34] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:48:34] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:48:34] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:48:34] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:48:34] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:48:34] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:48:34] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:48:34] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:48:34] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:48:44] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:48:44] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:48:44] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:48:44] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:48:45] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:48:45] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:48:45] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:48:45] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:48:45] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:48:45] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:48:45] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:48:45] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:48:45] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:48:45] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:48:45] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:48:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:48:45] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:48:45] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:48:45] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:50:54] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:50:54] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:50:54] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:50:54] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:50:55] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:50:55] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:50:55] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:50:55] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:50:55] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:50:55] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:50:55] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:50:55] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:50:55] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:50:55] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:50:55] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:50:55] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:50:55] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:50:55] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:50:55] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:35] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:35] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:35] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:35] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:35] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:35] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:36] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:36] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:36] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:36] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:36] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:36] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:36] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:36] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:36] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:36] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:36] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:36] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:36] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:42] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:42] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:42] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:42] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:42] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:42] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:43] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:43] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:43] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:43] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:43] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:43] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:43] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:43] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:43] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:43] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:43] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:43] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:43] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:44] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:44] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:44] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:44] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:44] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:44] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:45] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:45] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:45] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:45] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:45] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:45] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:45] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:45] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:45] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:45] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:45] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:45] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:46] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:46] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:46] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:46] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:47] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:47] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:48] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:48] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:48] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:48] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:48] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:48] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:48] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:48] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:48] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:48] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:49] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:49] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:49] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:49] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:49] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:49] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:50] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:50] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:50] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:50] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:50] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:50] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:50] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:50] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:50] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:50] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:50] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:50] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:50] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:51:57] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:51:57] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:51:57] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:51:57] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:51:57] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:51:57] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:51:58] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:51:58] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:51:58] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:51:58] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:51:58] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:51:58] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:51:58] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:51:58] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:51:58] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:51:58] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:51:58] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:51:58] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:51:58] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:53:20] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:53:20] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:53:20] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:53:20] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:53:20] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:53:20] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:53:30] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:53:30] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:53:30] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:53:30] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:53:30] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:53:30] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:53:41] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:53:42] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:54:59] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:54:59] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:54:59] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:54:59] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:54:59] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:54:59] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:55:43] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:55:43] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:55:43] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:55:43] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:55:43] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:55:43] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:55:44] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:55:44] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:55:44] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:55:44] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:55:44] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:55:44] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:55:44] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:55:44] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:55:44] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:55:44] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:55:44] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:55:44] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:55:44] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:56:13] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:56:13] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:56:13] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:56:13] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:56:13] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:56:13] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:56:14] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:56:14] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:56:14] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:56:14] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:56:14] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:56:14] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:56:14] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:56:14] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:56:14] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:56:14] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:56:14] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:56:14] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:56:14] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 11:56:39] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 11:56:39] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 11:56:39] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 11:56:39] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 11:56:40] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 11:56:40] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 11:56:40] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 11:56:40] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 11:56:40] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 11:56:40] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 11:56:40] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 11:56:40] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 11:56:40] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 11:56:40] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 11:56:40] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 11:56:40] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 11:56:40] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 11:56:40] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 11:56:40] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:08:08] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 12:08:08] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 12:08:08] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:08:08] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:08:08] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:08:08] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:08:09] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:08:09] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 12:08:09] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 12:08:09] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 12:08:09] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 12:08:09] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 12:08:09] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 12:08:09] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 12:08:09] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 12:08:09] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:08:09] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:08:09] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:08:09] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 12:08:45] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 12:08:45] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 12:08:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:08:46] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:08:46] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:08:46] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:11:14] [INFO] [Ranker] Starting batch execution for 7 announcements...
+[2026-07-24 12:11:14] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-24 12:11:14] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:11:14] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:11:15] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:11:15] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:11:15] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:11:15] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-24 12:11:15] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-24 12:11:15] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 12:11:15] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-24 12:11:15] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-24 12:11:15] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-24 12:11:15] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-24 12:11:15] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-24 12:11:15] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:11:15] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:11:15] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:11:15] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: BHEL_Govt_Order_Win.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: INFY_GST_Demand_Notice.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: RELIANCE_Strategic_M&A.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: SUZLON_Debt_Default.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: TCS_Dividend_Declaration.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: INFY_Board_Resignation_CEO_Notice.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: RELIANCE_Merger_Acquisition_Notice.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: SUZLON_Debt_Default_Disclosure.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: TATAMOTORS_Bonus_Issue_Ratio.pdf
+[2026-07-24 12:47:11] [INFO] [Main] Removed placeholder file: TCS_Q1_Financial_Results_Dividend.pdf
+[2026-07-24 12:47:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:11] [INFO] [Downloader] Successfully downloaded new PDF: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:11] [INFO] [Downloader] Successfully downloaded new PDF: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:47:12] [INFO] [Downloader] Duplicate PDF detected (hash match with ETHOS_05062026160606_Disclosure_GST_Order.pdf). Skipping.
+[2026-07-24 12:47:12] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:47:12] [INFO] [Downloader] Duplicate PDF detected (hash match with EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf). Skipping.
+[2026-07-24 12:47:12] [INFO] [Downloader] Initiating download: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:12] [ERROR] [Downloader] Failed to download PDF from https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf: 404 Client Error: Not Found for url: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:12] [INFO] [Ranker] Starting batch execution for 4 announcements...
+[2026-07-24 12:47:12] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:12] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 12:47:12] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:13] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:47:13] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:47:13] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:47:13] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:47:13] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:47:13] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:47:13] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:47:13] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:47:13] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:47:13] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 12:47:29] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:29] [INFO] [Downloader] Duplicate PDF detected (hash match with BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf). Skipping.
+[2026-07-24 12:47:29] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:29] [INFO] [Downloader] Duplicate PDF detected (hash match with BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf). Skipping.
+[2026-07-24 12:47:29] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:47:30] [INFO] [Downloader] Duplicate PDF detected (hash match with ETHOS_05062026160606_Disclosure_GST_Order.pdf). Skipping.
+[2026-07-24 12:47:30] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:47:30] [INFO] [Downloader] Duplicate PDF detected (hash match with EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf). Skipping.
+[2026-07-24 12:47:30] [INFO] [Downloader] Initiating download: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:32] [INFO] [Downloader] Successfully downloaded new PDF: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:32] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 12:47:32] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:32] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 12:47:32] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:32] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:47:32] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:47:32] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:47:32] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:47:32] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:47:32] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:33] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 29.9/100 (Low)
+[2026-07-24 12:47:33] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:47:33] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:47:33] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:47:33] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:47:33] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 12:47:50] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:50] [INFO] [Downloader] Duplicate PDF detected (hash match with BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf). Skipping.
+[2026-07-24 12:47:50] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:50] [INFO] [Downloader] Duplicate PDF detected (hash match with BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf). Skipping.
+[2026-07-24 12:47:50] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:47:51] [INFO] [Downloader] Duplicate PDF detected (hash match with ETHOS_05062026160606_Disclosure_GST_Order.pdf). Skipping.
+[2026-07-24 12:47:51] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:47:51] [INFO] [Downloader] Duplicate PDF detected (hash match with EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf). Skipping.
+[2026-07-24 12:47:51] [INFO] [Downloader] Initiating download: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:52] [INFO] [Downloader] Duplicate PDF detected (hash match with cc79e53e-be66-400d-82db-6e88c3a42188.pdf). Skipping.
+[2026-07-24 12:47:52] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 12:47:52] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:47:52] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 12:47:52] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:47:52] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:47:52] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:47:52] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:47:52] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:47:52] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:47:52] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:47:53] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 29.9/100 (Low)
+[2026-07-24 12:47:53] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:47:53] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:47:53] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:47:53] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:47:53] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 12:48:07] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:48:08] [INFO] [Downloader] Duplicate PDF detected (hash match with BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf). Skipping.
+[2026-07-24 12:48:08] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:48:08] [INFO] [Downloader] Duplicate PDF detected (hash match with BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf). Skipping.
+[2026-07-24 12:48:08] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:48:08] [INFO] [Downloader] Duplicate PDF detected (hash match with ETHOS_05062026160606_Disclosure_GST_Order.pdf). Skipping.
+[2026-07-24 12:48:08] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:48:08] [INFO] [Downloader] Duplicate PDF detected (hash match with EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf). Skipping.
+[2026-07-24 12:48:08] [INFO] [Downloader] Initiating download: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:48:08] [ERROR] [Downloader] Failed to download PDF from https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf: 404 Client Error: Not Found for url: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:48:08] [INFO] [Ranker] Starting batch execution for 4 announcements...
+[2026-07-24 12:48:08] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:48:08] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 12:48:08] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:48:09] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:48:09] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:48:09] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:48:09] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:48:09] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:48:09] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:48:09] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:48:09] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:48:09] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:48:09] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 12:48:45] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:48:45] [INFO] [Downloader] Duplicate PDF detected (hash match with BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf). Skipping.
+[2026-07-24 12:48:45] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:48:46] [INFO] [Downloader] Duplicate PDF detected (hash match with BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf). Skipping.
+[2026-07-24 12:48:46] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:48:46] [INFO] [Downloader] Duplicate PDF detected (hash match with ETHOS_05062026160606_Disclosure_GST_Order.pdf). Skipping.
+[2026-07-24 12:48:46] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:48:47] [INFO] [Downloader] Duplicate PDF detected (hash match with EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf). Skipping.
+[2026-07-24 12:48:47] [INFO] [Downloader] Initiating download: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:48:47] [WARNING] [Downloader] Download HTTP error for https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf (404 Client Error: Not Found for url: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf). Reusing cached local file: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:48:47] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 12:48:47] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:48:47] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 12:48:47] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:48:47] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:48:47] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:48:47] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:48:47] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:48:47] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:48:47] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:48:47] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 12:48:47] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:48:48] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:48:48] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:48:48] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:48:48] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 12:48:55] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:49:53] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 12:49:53] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 12:49:53] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 12:49:53] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 12:49:53] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 12:49:53] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 12:49:53] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 12:49:53] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 12:49:53] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 12:49:53] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 12:49:54] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 12:49:54] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 12:49:54] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 12:49:54] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 12:49:54] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 12:49:54] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:22:17] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:22:17] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:22:18] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:22:18] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:22:18] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:22:19] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:22:19] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:22:19] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:30:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:30:11] [INFO] [Downloader] Duplicate PDF detected (hash match with BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf). Skipping.
+[2026-07-24 13:30:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:30:11] [INFO] [Downloader] Duplicate PDF detected (hash match with BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf). Skipping.
+[2026-07-24 13:30:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:30:11] [INFO] [Downloader] Duplicate PDF detected (hash match with ETHOS_05062026160606_Disclosure_GST_Order.pdf). Skipping.
+[2026-07-24 13:30:11] [INFO] [Downloader] Initiating download: https://nsearchives.nseindia.com/corporate/EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:30:11] [INFO] [Downloader] Duplicate PDF detected (hash match with EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf). Skipping.
+[2026-07-24 13:30:11] [INFO] [Downloader] Initiating download: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:30:12] [WARNING] [Downloader] Download HTTP error for https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf (404 Client Error: Not Found for url: https://www.bseindia.com/xml-data/corpfiling/AttachLive/cc79e53e-be66-400d-82db-6e88c3a42188.pdf). Reusing cached local file: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:30:12] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:30:12] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:30:12] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:30:12] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:30:12] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:30:12] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:30:12] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:30:12] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:30:12] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:30:12] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:30:12] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:30:12] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:30:13] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:30:13] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:30:13] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:30:13] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:30:30] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:30:42] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:30:42] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:30:42] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:30:42] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:30:42] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:30:42] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:30:42] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:30:42] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:30:42] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:30:42] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:30:43] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:30:43] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:30:43] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:30:43] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:30:43] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:30:43] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:31:28] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:31:28] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:31:28] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:31:28] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:31:28] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:31:28] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:31:28] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:31:28] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:31:28] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:31:28] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:31:29] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:31:29] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:31:29] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:31:29] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:31:29] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:31:29] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:40:25] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:40:25] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:40:25] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:40:25] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:40:25] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:40:25] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:40:25] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:40:25] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:40:25] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:40:25] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:40:26] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:40:26] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:40:26] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:40:26] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:40:26] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:40:26] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:40:39] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:40:39] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:40:39] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:40:39] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:40:39] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:40:39] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:40:39] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:40:39] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:40:40] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:40:40] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:40:40] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:40:40] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:40:40] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:40:40] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:40:40] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:40:40] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:40:41] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:40:41] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:40:41] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:40:41] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:40:42] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:40:42] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:40:42] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:40:42] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:40:42] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:40:42] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:40:42] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:40:42] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:40:42] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:40:42] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:40:42] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:40:42] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:44:44] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:44:44] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:44:44] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:44:44] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:44:44] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:44:44] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:44:44] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:44:44] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:44:44] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:44:44] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:44:45] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:44:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:44:45] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:44:45] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:44:45] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:44:45] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:49:57] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:49:57] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:49:57] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:49:57] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:49:57] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:49:57] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:49:57] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:49:57] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:49:57] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:49:57] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:49:58] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:49:58] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:49:58] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:49:58] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:49:58] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:49:58] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 13:50:45] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 13:50:45] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 13:50:46] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 13:50:46] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 13:50:46] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 13:50:46] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 13:50:46] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 13:50:46] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 13:50:46] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 13:50:46] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 13:50:46] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 13:50:46] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 13:50:46] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 13:50:46] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 13:50:46] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 13:50:46] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 15:50:17] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 15:50:17] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 15:50:17] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 15:50:17] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 15:50:17] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 15:50:17] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 15:50:17] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 15:50:17] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 15:50:17] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 15:50:17] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 15:50:18] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 15:50:18] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 15:50:18] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 15:50:18] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 15:50:18] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 15:50:18] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 16:08:37] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 16:08:37] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 16:08:37] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 16:08:37] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 16:08:37] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 16:08:37] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 16:08:37] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 16:08:37] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 16:08:38] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 16:08:38] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 16:08:38] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 16:08:38] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 16:08:38] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 16:08:38] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 16:08:38] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 16:08:38] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 16:14:03] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 16:14:03] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 16:14:03] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 16:14:03] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 16:14:03] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 16:14:03] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 16:14:03] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 16:14:03] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 16:14:04] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 16:14:04] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 16:14:04] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 16:14:04] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 16:14:04] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 16:14:04] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 16:14:04] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 16:14:04] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-24 20:49:00] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-24 20:49:00] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-24 20:49:01] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-24 20:49:01] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-24 20:49:01] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-24 20:49:01] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-24 20:49:01] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-24 20:49:01] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-24 20:49:01] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-24 20:49:01] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-24 20:49:02] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-24 20:49:02] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-24 20:49:02] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-24 20:49:02] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-24 20:49:02] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-24 20:49:02] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:29:36] [INFO] [Ranker] Starting batch execution for 5 announcements...
+[2026-07-25 00:29:36] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:29:36] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:29:36] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:29:36] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:29:36] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:29:36] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:29:36] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:29:36] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:29:36] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:29:37] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:29:37] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:29:37] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:29:37] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:29:37] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:29:37] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:29:44] [INFO] [Ranker] Starting batch execution for 10 announcements...
+[2026-07-25 00:29:44] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:29:44] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:29:44] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:29:44] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:29:44] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:29:44] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:29:44] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:29:44] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:29:44] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:29:45] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:29:45] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:29:45] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:29:45] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:29:45] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:29:45] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:29:45] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:29:45] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:29:45] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:29:45] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:29:45] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:29:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:29:45] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:29:45] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:29:45] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:29:45] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:34:58] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:34:58] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:34:58] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:34:58] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:34:58] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:34:58] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:34:58] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:34:58] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:34:58] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:34:58] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:34:58] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:34:58] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:34:59] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:34:59] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:34:59] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:34:59] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:34:59] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:34:59] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:34:59] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:34:59] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:34:59] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:34:59] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:34:59] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:34:59] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:34:59] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:34:59] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:34:59] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:34:59] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:35:08] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:35:08] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:35:08] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:35:08] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:35:08] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:35:08] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:35:08] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:35:08] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:35:09] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:35:09] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:35:09] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:35:09] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:35:09] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:35:09] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:35:09] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:35:09] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:35:09] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:35:09] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:35:09] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:35:09] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:35:09] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:35:09] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:35:42] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:35:42] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:35:42] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:35:42] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:35:42] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:42] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:35:42] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:42] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:35:42] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:35:42] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:35:43] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:35:43] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:35:43] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:35:43] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:35:43] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:35:43] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:35:43] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:35:43] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:35:43] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:35:43] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:35:43] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:35:43] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:35:45] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:35:45] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:35:45] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:35:45] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:35:45] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:45] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:35:46] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:35:46] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:46] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:35:47] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:35:47] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:35:47] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:35:47] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:35:47] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:35:47] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:35:48] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:35:48] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:35:48] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:35:48] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:35:48] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:35:48] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:35:48] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:35:48] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:35:48] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:35:48] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:48] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:35:48] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:48] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:35:48] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:35:48] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:35:49] [WARNING] [PDFParser] Table extraction warning for SUZLON_Debt_Default.pdf: No /Root object! - Is this really a PDF?
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:35:49] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:35:49] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:35:49] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:35:49] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:35:50] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:50] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:35:50] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:35:50] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:35:50] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:35:50] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:35:50] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:35:50] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:35:50] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:35:50] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:35:50] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:35:50] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:35:50] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:35:50] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:35:50] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:35:50] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:35:51] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:35:51] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:35:51] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:35:51] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:35:51] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:35:51] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:35:51] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:35:51] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:35:51] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:35:51] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:35:51] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:35:51] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:39:54] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:39:54] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:39:54] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:39:54] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:39:54] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:39:54] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:39:54] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:39:54] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:39:54] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:39:54] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:39:54] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:39:54] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:39:55] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:39:55] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:39:55] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:39:55] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:39:55] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:39:55] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:39:55] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:39:55] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:39:55] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:39:55] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:39:55] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:39:55] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:39:55] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:39:55] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:39:55] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:39:55] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:40:22] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:40:22] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:40:22] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:40:22] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:40:22] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:40:22] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:40:22] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:40:22] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:40:22] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:40:22] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:40:22] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:40:22] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:40:23] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:40:23] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:40:23] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:40:23] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:40:23] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:40:23] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:40:23] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:40:23] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:40:23] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:40:23] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:40:23] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:40:23] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:40:23] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:40:23] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:40:23] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:40:23] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:42:00] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:42:00] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:42:00] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:42:00] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:42:00] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:42:00] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:42:00] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:42:00] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:42:00] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:42:00] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:42:01] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:42:01] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:42:01] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:42:01] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:42:01] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:42:01] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:42:01] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:42:01] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:42:01] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:42:01] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:42:01] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:42:01] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:43:42] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:43:42] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:43:43] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:43:43] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:43:43] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:43:43] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:43:43] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:43:43] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:43:43] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:43:43] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:43:43] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:43:43] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:43:44] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:43:44] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:43:44] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:43:44] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:43:44] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:43:44] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:43:44] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:43:44] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:43:44] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:43:44] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:43:44] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:43:44] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:43:44] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:43:44] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:43:44] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:43:44] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:44:25] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:44:25] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:44:25] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:44:25] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:44:25] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:25] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:44:25] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:25] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:44:25] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:44:25] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:44:26] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:44:26] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:44:26] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:44:26] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:44:26] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:44:26] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:44:26] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:44:26] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:44:27] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:27] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:44:27] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:44:27] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:44:27] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:44:27] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:44:28] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:28] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:44:28] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:28] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:44:29] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:44:29] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:44:29] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:44:29] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:44:29] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:44:29] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:44:29] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:44:29] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:44:30] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:44:30] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:44:30] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:44:30] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:44:30] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:44:30] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:44:30] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:44:30] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:44:30] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:30] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:44:30] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:44:30] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:44:31] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:44:31] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:44:31] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:44:31] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:44:31] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:44:31] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:44:31] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:44:31] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:44:32] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:44:32] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:44:32] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:44:32] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:44:32] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:44:32] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:44:32] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:44:32] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:44:32] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:44:32] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:44:33] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:44:33] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:44:33] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:44:33] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:44:33] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:44:33] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:44:33] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:44:33] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:44:34] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:44:34] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:44:34] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:44:34] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:44:34] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:44:34] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:21] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:21] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:22] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:22] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:22] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:22] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:22] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:22] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:22] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:22] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:22] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:22] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:23] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:23] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:23] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:23] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:23] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:23] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:23] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:23] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:23] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:23] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:23] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:23] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:23] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:23] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:23] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:23] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:32] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:32] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:32] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:32] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:32] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:32] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:32] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:32] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:32] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:32] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:33] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:33] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:33] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:33] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:33] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:33] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:33] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:33] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:33] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:33] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:34] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:34] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:35] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:35] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:35] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:35] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:35] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:35] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:35] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:39] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:39] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:39] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:39] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:39] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:39] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:39] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:39] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:39] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:39] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:40] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:40] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:40] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:40] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:40] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:40] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:40] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:40] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:41] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:41] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:41] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:41] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:43] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:43] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:43] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:43] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:43] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:43] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:44] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:44] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:44] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:44] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:44] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:44] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:44] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:44] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:44] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:44] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:44] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:44] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:45] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:45] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:45] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:45] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:45] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:45] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:45] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:45] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:45] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:46] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:46] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:47] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:47] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:47] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:47] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:48] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:48] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:48] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:48] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:48] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:48] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:48] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:48] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:49] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:49] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:49] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:49] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:49] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:49] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:49] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:49] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:50] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:50] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:50] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:50] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:50] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:50] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:50] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:51] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:51] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:51] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:51] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:51] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:51] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:51] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:51] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:51] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:51] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:51] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:51] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:51] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:51] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:55] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:55] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:55] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:55] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:55] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:55] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:55] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:55] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:55] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:55] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:55] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:55] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:56] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:56] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:46:57] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:46:57] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:46:57] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:46:58] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:46:58] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:46:58] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:46:58] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:46:58] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:46:58] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:46:58] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:46:58] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:46:58] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:46:58] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:46:58] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:46:58] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:46:58] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:46:59] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:46:59] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:46:59] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:46:59] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:46:59] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:46:59] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:47:00] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:47:00] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:47:00] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:47:00] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:47:00] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:47:00] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:47:00] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:47:00] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:47:00] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:47:00] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:47:00] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:47:00] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:47:00] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:47:00] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:47:20] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:47:20] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:47:21] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:47:21] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:47:21] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:47:21] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:47:21] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:47:21] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:47:21] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:47:21] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:47:21] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:47:21] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:47:21] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:47:21] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:47:22] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:47:22] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:47:22] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:47:22] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:47:22] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:47:22] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:47:22] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:47:22] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:47:22] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:47:22] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:47:22] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:47:22] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:47:22] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:47:22] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:47:54] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:47:54] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:47:54] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:47:54] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:47:54] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:47:54] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:47:54] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:47:54] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:47:54] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:47:54] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:47:54] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:47:54] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:47:55] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:47:55] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:47:55] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:47:55] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:47:55] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:47:55] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:47:55] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:47:55] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:47:55] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:47:55] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:47:55] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:47:55] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:47:55] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:47:55] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:47:55] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:47:55] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:49:55] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:49:55] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:49:55] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:49:55] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:49:55] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:49:55] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:49:55] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:49:55] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:49:55] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:49:55] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:49:56] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:49:56] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:49:56] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:49:56] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:49:56] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:49:56] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:49:56] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:49:56] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:49:56] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:49:56] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:49:56] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:49:56] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:52:44] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:52:44] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:52:44] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:52:44] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:52:44] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:52:44] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:52:44] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:52:44] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:52:44] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:52:44] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:52:45] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:52:45] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:52:45] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:52:45] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:52:45] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:52:45] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:52:45] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:52:45] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:52:45] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:52:45] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:52:45] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:52:45] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:53:23] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:53:23] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:53:24] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:53:24] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:53:24] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:53:24] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:53:24] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:53:24] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:53:24] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:53:24] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:53:24] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:53:24] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:53:25] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:53:25] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:53:25] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:53:25] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:53:25] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:53:25] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:53:25] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:53:25] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:53:25] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:53:25] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:53:25] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:53:25] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:53:25] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:53:25] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:53:25] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:53:25] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:55:10] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:55:10] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:55:10] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:55:10] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:55:10] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:55:10] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:55:10] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:55:10] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:55:10] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:55:10] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:55:11] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:55:11] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:55:11] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:55:11] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:55:11] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:55:11] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:55:11] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:55:11] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:55:11] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:55:11] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:55:11] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:55:11] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 00:55:35] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 00:55:35] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 00:55:35] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 00:55:35] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 00:55:35] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:55:35] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 00:55:35] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 00:55:35] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 00:55:35] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 00:55:35] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 00:55:35] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 00:55:35] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 00:55:36] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 00:55:36] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 00:55:36] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 00:55:36] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 00:55:36] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 00:55:36] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 00:55:36] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 00:55:36] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 00:55:36] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 00:55:36] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 00:55:36] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 00:55:36] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 00:55:36] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 00:55:36] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 00:55:36] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 00:55:36] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 01:02:01] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 01:02:01] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 01:02:02] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 01:02:02] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 01:02:02] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 01:02:02] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 01:02:02] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 01:02:02] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 01:02:02] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 01:02:02] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 01:02:02] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 01:02:02] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 01:02:02] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 01:02:02] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 01:02:03] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 01:02:03] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 01:02:03] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 01:02:03] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 01:02:03] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 01:02:03] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 01:02:03] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 01:02:03] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 01:02:03] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 01:02:03] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 01:02:03] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 01:02:03] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 01:02:03] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 01:02:03] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 01:02:23] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 01:02:23] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 01:02:23] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 01:02:23] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 01:02:23] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 01:02:23] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 01:02:23] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 01:02:23] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 01:02:23] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 01:02:23] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 01:02:23] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 01:02:23] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 01:02:24] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 01:02:24] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 01:02:24] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 01:02:24] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 01:02:24] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 01:02:24] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 01:02:24] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 01:02:24] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 01:02:24] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 01:02:24] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 01:02:24] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 01:02:24] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 01:02:24] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 01:02:24] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 01:02:24] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 01:02:24] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
+[2026-07-25 01:04:40] [INFO] [Ranker] Starting batch execution for 11 announcements...
+[2026-07-25 01:04:40] [INFO] [PDFParser] Parsing PDF document: BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf
+[2026-07-25 01:04:41] [INFO] [Ranker] Processed 'BHELCC_05062026113257_Info_to_SE_05_06_2026.pdf': Score 60.9/100 (Medium)
+[2026-07-25 01:04:41] [INFO] [PDFParser] Parsing PDF document: BHEL_Govt_Order_Win.pdf
+[2026-07-25 01:04:41] [INFO] [Ranker] Processed 'BHEL_Govt_Order_Win.pdf': Score 46.0/100 (Medium)
+[2026-07-25 01:04:41] [INFO] [PDFParser] Parsing PDF document: BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf
+[2026-07-25 01:04:41] [INFO] [Ranker] Processed 'BLUSPRING_05062026130923_Reg_30_-_SESI-BALCO.pdf': Score 46.0/100 (Medium)
+[2026-07-25 01:04:41] [INFO] [PDFParser] Parsing PDF document: cc79e53e-be66-400d-82db-6e88c3a42188.pdf
+[2026-07-25 01:04:41] [INFO] [Ranker] Processed 'cc79e53e-be66-400d-82db-6e88c3a42188.pdf': Score 26.4/100 (Low)
+[2026-07-25 01:04:41] [INFO] [PDFParser] Parsing PDF document: EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf
+[2026-07-25 01:04:41] [INFO] [Ranker] Processed 'EDUTECH_05062026174716_Disclosure_Reg_30_EDUTECH_05062026.pdf': Score 37.9/100 (Low)
+[2026-07-25 01:04:41] [INFO] [PDFParser] Parsing PDF document: ETHOS_05062026160606_Disclosure_GST_Order.pdf
+[2026-07-25 01:04:42] [INFO] [Ranker] Processed 'ETHOS_05062026160606_Disclosure_GST_Order.pdf': Score 41.4/100 (Low)
+[2026-07-25 01:04:42] [INFO] [PDFParser] Parsing PDF document: HDFCBANK_24072026190350_SE_Intimation_call_option.pdf
+[2026-07-25 01:04:42] [INFO] [Ranker] Processed 'HDFCBANK_24072026190350_SE_Intimation_call_option.pdf': Score 29.9/100 (Low)
+[2026-07-25 01:04:42] [INFO] [PDFParser] Parsing PDF document: INFY_GST_Demand_Notice.pdf
+[2026-07-25 01:04:42] [INFO] [Ranker] Processed 'INFY_GST_Demand_Notice.pdf': Score 35.6/100 (Low)
+[2026-07-25 01:04:42] [INFO] [PDFParser] Parsing PDF document: RELIANCE_Strategic_M&A.pdf
+[2026-07-25 01:04:42] [INFO] [Ranker] Processed 'RELIANCE_Strategic_M&A.pdf': Score 51.7/100 (Medium)
+[2026-07-25 01:04:42] [INFO] [PDFParser] Parsing PDF document: SUZLON_Debt_Default.pdf
+[2026-07-25 01:04:42] [INFO] [Ranker] Processed 'SUZLON_Debt_Default.pdf': Score 42.5/100 (Low)
+[2026-07-25 01:04:42] [INFO] [PDFParser] Parsing PDF document: TCS_Dividend_Declaration.pdf
+[2026-07-25 01:04:42] [INFO] [Ranker] Processed 'TCS_Dividend_Declaration.pdf': Score 57.5/100 (Medium)
+[2026-07-25 01:04:42] [INFO] [Exporter] Exported CSV report: corporate_action_impact_report.csv
+[2026-07-25 01:04:42] [INFO] [Exporter] Exported Excel report: corporate_action_impact_report.xlsx
+[2026-07-25 01:04:42] [INFO] [Exporter] Exported JSON report: corporate_action_impact_report.json
+[2026-07-25 01:04:42] [INFO] [Exporter] Exported PDF executive report: corporate_action_impact_report.pdf
+[2026-07-25 01:04:42] [INFO] [Exporter] Exported impact_scores_ranked.csv and impact_scores_ranked.json
