@@ -6,7 +6,7 @@ An enterprise-grade, production-ready AI platform designed to analyze NSE/BSE co
 
 ## 🌟 Key System Capabilities
 
-- **15-Taxonomy Announcement Classifier**: Categorizes announcements into `Order Win`, `GST Notice`, `Penalty`, `Dividend`, `Buyback`, `Bonus`, `Stock Split`, `Acquisition`, `Merger`, `Partnership`, `Expansion`, `Litigation`, `Management Change`, `Credit Rating`, and `Other`.
+- **Taxonomy Announcement Classifier**: Categorizes announcements into `Order Win`, `GST Notice`, `Penalty`, `Dividend`, `Buyback`, `Bonus`, `Stock Split`, `Merger`, `Credit Rating`, and `Other`.
 - **Explainable Weighted Scoring Engine**: Multi-factor scoring (0 to 100) powered by configurable `config/scoring.yaml` weights, assigning 4 rating tags (`Very High`, `High`, `Medium`, `Low`) and natural language explanations.
 - **AI Executive Business Summarizer**: Produces 1-2 sentence market summaries (e.g. *"BHEL secured a ₹620 crore government order expected to positively impact future revenues. Overall market impact is High."*).
 - **Multi-Format Export Engine**: Exports ranked corporate intelligence into CSV, Excel (`openpyxl`), JSON, and formatted PDF executive reports (`reportlab`).
